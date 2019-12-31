@@ -6,6 +6,7 @@ px4_add_board(
 	LABEL default
 	TESTING
 	DRIVERS
+                distance_sensor
 		#barometer # all available barometer drivers
 		#batt_smbus
 		camera_capture

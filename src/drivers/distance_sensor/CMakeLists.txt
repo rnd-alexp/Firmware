@@ -32,10 +32,10 @@
 ############################################################################
 
 add_subdirectory(cm8jl65)
-add_subdirectory(leddar_one)
+#add_subdirectory(leddar_one)
 add_subdirectory(ll40ls)
-add_subdirectory(mappydot)
-add_subdirectory(mb12xx)
+#add_subdirectory(mappydot)
+#add_subdirectory(mb12xx)
 add_subdirectory(pga460)
 add_subdirectory(sf0x)
 add_subdirectory(sf1xx)
